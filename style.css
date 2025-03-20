@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+ol {
+    background-color: #f78989;
+    padding: 20px;
+    width: 300px;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+
+li {
+    background-color: #be4d4d;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 5px;
+}
+
+li span {
+    background-color: #790f0f;
+    padding: 5px;
+    border-radius: 3px;
+    color: white;
+}
+
+
